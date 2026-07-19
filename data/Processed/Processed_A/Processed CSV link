@@ -1,2 +1,3 @@
 "https://drive.google.com/drive/folders/1468SzI-XZtHyqThmVJpj86uMIZjVfmCs?usp=share_link"
 "Se adjunta link a dataset modificados de Train y Test"
+Este conjunto "A" Tiene el tratado de datos para la exploración de sentimientos, solamente preservando las columnas "target" y "text".
